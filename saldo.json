@@ -1,0 +1,36 @@
+{
+    "saldo": 2e+32,
+    "riwayat": [
+        {
+            "tanggal": "2026-02-03 06:06:48",
+            "tipe": "Pemasukan",
+            "jumlah": 20.0
+        },
+        {
+            "tanggal": "2026-02-03 06:19:47",
+            "tipe": "Pemasukan",
+            "jumlah": 10000000.0
+        },
+        {
+            "tanggal": "2026-02-03 06:21:31",
+            "tipe": "Pemasukan",
+            "jumlah": 10000.0
+        },
+        {
+            "tanggal": "2026-02-03 06:21:45",
+            "tipe": "Pengeluaran",
+            "jumlah": 50000.0
+        },
+        {
+            "tanggal": "2026-02-03 06:23:12",
+            "tipe": "Pemasukan",
+            "jumlah": 1000000000.0
+        },
+        {
+            "tanggal": "2026-02-03 06:27:04",
+            "tipe": "Pemasukan",
+            "jumlah": 2e+32,
+            "deskripsi": "gaji sebulan"
+        }
+    ]
+}
